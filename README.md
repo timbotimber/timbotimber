@@ -1,4 +1,6 @@
-### Hi there 👋
+### That's no moon... It's a github profile 👋
+
+## My name is Tim and I like coding, teaching coding, bringing cool projects to life, synthesisers, cycling really really far and Dungeons and Dragons 
 
 <!--
 **timbotimber/timbotimber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
